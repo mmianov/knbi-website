@@ -1,19 +1,23 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "Informacje o kole"
+title: "About the organization"
 ---
 
-Skład zarządu Koła Naukowego Bezpieczeństwa Informacyjnego:
+**Board of** Koło Naukowe Bezpieczeństwa Informacyjnego:
 
-* Prezes: Karol Rzepka
-* Skarbnik: Adam Piwoński 
-* Promocja Koła: Dawid Ruciński
-* Rekrutacja: Rafał Wolert
-* Sekcja CTF: Mateusz Mianowany
+* President: Karol Rzepka
+* Treasurer: Adam Piwoński 
+* Public Relations: Dawid Ruciński
+* Recruitment: Rafał Wolert
+* CTF Section: Mateusz Mianowany
 
-Kontakt
+**Supervisor**:
 
-* Mail: knbi.kontakt@gmail.com
+dr hab. inż. Wojciech Mazurczyk
+
+**Contact**:
+
+* Email: knbi.kontakt@gmail.com
 * Facebook: https://www.facebook.com/knbipw
 * LinkedIn:  https://www.linkedin.com/company/knbi/ 
 

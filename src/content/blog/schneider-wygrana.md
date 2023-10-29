@@ -1,7 +1,7 @@
 ---
 author: fortis
 pubDatetime: 2022-12-22T13:08:26.498Z
-title: Wygrana w Schneider Electric European Hackathon 2022
+title: -[PL]- Wygrana w Schneider Electric European Hackathon 2022
 postSlug: schneider-wygrana
 featured: true
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a

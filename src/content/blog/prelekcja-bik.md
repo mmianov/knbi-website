@@ -1,7 +1,7 @@
 ---
 author: fortis
 pubDatetime: 2023-05-16T17:12:45.498Z
-title: DDoS day - teatr wojny cybernetycznej przed i po 24.02.2022
+title: -[PL]- DDoS day - teatr wojny cybernetycznej przed i po 24.02.2022
 postSlug: prelekcja-bik
 featured: true
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
