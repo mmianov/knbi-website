@@ -3,7 +3,7 @@ author: fortis
 pubDatetime: 2023-05-04T12:57:32.498Z
 title: -[PL]- OSINT - nie lekceważ białego wywiadu
 postSlug: prelekcja-osint
-featured: true
+featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - prelekcja

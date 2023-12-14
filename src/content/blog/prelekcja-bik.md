@@ -3,7 +3,7 @@ author: fortis
 pubDatetime: 2023-05-16T17:12:45.498Z
 title: -[PL]- DDoS day - teatr wojny cybernetycznej przed i po 24.02.2022
 postSlug: prelekcja-bik
-featured: true
+featured: false
 ogImage: https://github.com/satnaing/astro-paper/assets/53733092/1ef0cf03-8137-4d67-ac81-84a032119e3a
 tags:
   - prelekcja
@@ -13,7 +13,7 @@ description: "Konrad Płachecki – Kierownik Zespołu Cyberbezpieczeństwa w BI
 
 #  O prelegencie
 
-`Konrad Płachecki` – Kierownik Zespołu Cyberbezpieczeństwa w Biurze Informacji Kredytowej i BIG Infomonitor. Architekt bezpieczeństwa sieci operatorskich z kilkunastoletnim doświadczeniem. Współprojektant systemu do ochrony przed atakami DDoS w sieci Orange Polska. Obecnie zarządza pracą zespołu ekspertów ds. cyberbezpieczeństwa
+**Konrad Płachecki** – Kierownik Zespołu Cyberbezpieczeństwa w Biurze Informacji Kredytowej i BIG Infomonitor. Architekt bezpieczeństwa sieci operatorskich z kilkunastoletnim doświadczeniem. Współprojektant systemu do ochrony przed atakami DDoS w sieci Orange Polska. Obecnie zarządza pracą zespołu ekspertów ds. cyberbezpieczeństwa
 
 # Streszczenie
 
